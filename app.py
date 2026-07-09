@@ -131,5 +131,5 @@ Probability
 
 # {hasil['probability']:.2%}
 
-    </div>
+    
     """, unsafe_allow_html=True)
